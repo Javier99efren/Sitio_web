@@ -1,0 +1,16 @@
+nav { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 15pt;
+
+}
+
+.barranav {
+    width: 200px;
+    display: flex;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+}
